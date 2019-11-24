@@ -18,7 +18,7 @@ public:
   string solve();
 private:
   vector<string> triplets;
-  vector<string> power3;
+  vector<string> (long)power3;
   string data;
 
 string const string[] base100 = {
